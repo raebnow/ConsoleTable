@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ConsoleTable/ConsoleTable.csproj" />
+  </Folder>
+  <Folder Name="/samples/">
+    <Project Path="samples/ConsoleTable.Demo/ConsoleTable.Demo.csproj" />
+  </Folder>
+</Solution>
